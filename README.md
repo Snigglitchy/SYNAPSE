@@ -6,4 +6,4 @@ Search a concept → see the real papers behind it (titles, journals, years, lin
 
 To be clear about what this is and isn't: co-mention in an abstract isn't evidence of biological interaction — think of it as a fast way to see the shape of the field's current attention, before you go do the real reading. Not a replacement for a literature review, a head start on one.
 
-Still v1, would love feedback from anyone in oncology or research more broadly — link in the comments.
+Still v1, would love feedback from anyone in oncology or research more broadly.
